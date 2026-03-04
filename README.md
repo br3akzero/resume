@@ -42,7 +42,7 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 
 **Player Team (11/2022 - 07/2025)**
 
-- Part of a 4-person team responsible for all client-facing Player SDKs across iOS, tvOS, Android, React Native, and Web.
+- Part of a 4-person team responsible for all client-facing Player SDKs across iOS, tvOS, Android, React Native, and Web. Led code reviews and contributed to system design decisions across the SDK layer.
 - Designed and delivered the native Swift Video Player SDK, platform and UI agnostic.
 - Designed and delivered the React Native Player SDK bridging native iOS and Android implementations.
 - Core engineer on the Wowza Flowplayer Web Player, serving 100M+ monthly views.
@@ -132,7 +132,7 @@ Selected client projects:
 
 **Web3:** WalletConnect, Wagmi
 
-**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, Linear, Jira, Trello, AI-assisted development
+**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, Linear, Jira, Trello, AI-assisted development, Agile, Scrum
 
 ## Education
 
