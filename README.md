@@ -114,4 +114,14 @@ Selected client projects:
 **Cross-Platform:** React Native, tvOS, iOS, Android
 **Web3:** WalletConnect, Wagmi
 **Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, AI-assisted development
-**Human:** English (C1), German (B1)
+
+## Education
+
+**Self-taught Software Engineer**
+9+ years of continuous learning through building real products, open source, and hands-on development.
+
+**Languages**
+- English: C1 — Professional working proficiency
+- German: B1 — Goethe-Institut Certificate
+- Bosnian: Native
+
