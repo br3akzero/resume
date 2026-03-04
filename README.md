@@ -13,7 +13,9 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 ### Senior iOS Engineer
 
 **Fishbyte | 10/2025 - 03/2026**
+
 *Outdoor Navigation, Remote, United States*
+
 *SwiftUI, MapBox, Swift, [Fishbyte](https://fishbyte.app)*
 
 - Built the entire iOS app from scratch over 4 months, delivering a full MVP comparable in scope and quality to Strava and Google Maps.
@@ -26,8 +28,11 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 ### Senior Software Engineer
 
 **Flowplayer / Wowza | 07/2021 - 07/2025**
+
 *Online Video Platform, Remote, Sweden / United States*
+
 *SwiftUI, Swift, tvOS, Kotlin, React Native, TypeScript, React, [Flowplayer](https://flowplayer.com), [Wowza](https://wowza.com)*
+
 *[Apple SDK](https://github.com/flowplayer/apple-sdk-releases), [React Native SDK](https://github.com/flowplayer/react-native-sdk-demo)*
 
 **OVP Team (07/2021 - 11/2022)**
@@ -46,7 +51,9 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 ### Senior Software Engineer
 
 **Netz.io | 06/2024 - 10/2024**
+
 *DeFi / Web3, Remote, Dubai, UAE*
+
 *Next.js, WalletConnect, ShadCN, TanStack, Wagmi, [Netz.io](https://netz.io)*
 
 - Sole client-side engineer on a 4-person team, delivering a fixed-scope MVP in 4 months.
@@ -57,7 +64,9 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 ### Software Engineer
 
 **AdPro | 06/2020 - 07/2021**
+
 *E-commerce / CRM, Remote, Europe*
+
 *React, TypeScript, Redux*
 
 - One of 2 engineers building a CRM platform for managing and automating e-commerce order fulfillment.
@@ -69,7 +78,9 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 ### iOS & Android Engineer
 
 **HTEC Group | 03/2018 - 12/2020**
+
 *Software Outsourcing, On-site, Sarajevo*
+
 *Swift, iOS, Kotlin, Android, [HTEC](https://htec.com)*
 
 Selected client projects:
@@ -107,21 +118,32 @@ Selected client projects:
 ## Skills
 
 **Languages:** Swift, TypeScript, JavaScript, Kotlin, HTML, CSS, SASS/SCSS, Bash
+
 **Mobile:** SwiftUI, UIKit, AppKit, ARKit, AVFoundation, MapBox, CoreData, SwiftData, CloudKit, HLS, Combine, Swift Concurrency, Codable
+
 **Web:** React, Next.js, Node.js, Redux, Tailwind, ShadCN, TanStack
+
 **Backend:** Vapor, Node.js, REST APIs, Firebase
+
 **Testing:** XCTest, Swift Testing, JestJS, Playwright
+
 **Cross-Platform:** React Native, tvOS, iOS, Android
+
 **Web3:** WalletConnect, Wagmi
+
 **Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, Linear, Jira, Trello, AI-assisted development
 
 ## Education
 
 **Self-taught Software Engineer**
+
 9+ years of continuous learning through building real products, open source, and hands-on development.
 
 **Languages**
+
 - English: C1 — Professional working proficiency
+
 - German: B1 — Goethe-Institut Certificate
+
 - Bosnian: Native
 
