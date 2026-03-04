@@ -110,7 +110,7 @@ Selected client projects:
 **Mobile:** SwiftUI, UIKit, AppKit, ARKit, AVFoundation, MapBox, CoreData, SwiftData, CloudKit, HLS
 **Web:** React, Next.js, Node.js, Redux, Tailwind, ShadCN, TanStack
 **Backend:** Vapor, Node.js
-**Testing:** XCTest, Swift Testing, JestJS
+**Testing:** XCTest, Swift Testing, JestJS, Playwright
 **Cross-Platform:** React Native, tvOS, iOS, Android
 **Web3:** WalletConnect, Wagmi
 **Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Cloudflare, AI-assisted development
