@@ -24,6 +24,9 @@ jobs:
           args: >-
             --pdf-engine=xelatex
             -V geometry:margin=1in
+            -V colorlinks=true
+            -V urlcolor=blue
+            -V linkcolor=blue
             README.md -o Daniel_Reshad_Resume.pdf
 
       - name: Create release
