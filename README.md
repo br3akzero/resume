@@ -41,7 +41,7 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 - Designed and delivered the native Swift Video Player SDK, platform and UI agnostic.
 - Designed and delivered the React Native Player SDK bridging native iOS and Android implementations.
 - Core engineer on the Wowza Flowplayer Web Player, serving 100M+ monthly views.
-- SDKs adopted by major clients including Amedia, Norway's largest media group.
+- SDKs adopted by major clients including [Amedia](https://apps.apple.com/us/developer/amedia-as/id423980137), Norway's largest media group.
 
 ### Senior Software Engineer
 
