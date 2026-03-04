@@ -38,14 +38,16 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 **OVP Team (07/2021 - 11/2022)**
 
 - Part of a 7-person team building Flowplayer's React-based video CMS, working alongside the lead frontend engineer on the core UI.
+- Led cross-functional efforts to bring OVP/Wowza Video functionality into Web, React Native, and the Apple SDK.
 - Promoted to Senior Software Engineer upon joining the Player team.
 
 **Player Team (11/2022 - 07/2025)**
 
 - Part of a 4-person team responsible for all client-facing Player SDKs across iOS, tvOS, Android, React Native, and Web. Led code reviews and contributed to system design decisions across the SDK layer.
-- Designed and delivered the native Swift Video Player SDK, platform and UI agnostic.
+- Designed and delivered the native Swift Video Player SDK from scratch, improving scalability and decoupling the player from any specific UI or platform.
+- Introduced proper TypeScript typings and type validation into the Wowza Flowplayer Web Player to improve scalability and long-term maintainability.
 - Designed and delivered the React Native Player SDK bridging native iOS and Android implementations.
-- Core engineer on the Wowza Flowplayer Web Player, serving 100M+ monthly views.
+- Core engineer on the Wowza Flowplayer Web Player, serving 100M+ monthly views. Primary owner of debugging and troubleshooting player issues across web and native clients.
 - SDKs adopted by major clients including [Amedia](https://apps.apple.com/us/developer/amedia-as/id423980137), Norway's largest media group.
 
 ### Senior Software Engineer
