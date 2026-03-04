@@ -106,18 +106,10 @@ Selected client projects:
 
 ## Skills
 
-### Technical
-
-**Programming Languages:**
-Swift, JavaScript, TypeScript, HTML5, CSS3, Kotlin
-
-**Frameworks/Libraries:**
-React, React Native, Redux, ARKit, SwiftUI, UIKit, HTML5, CSS3, AppKit, CoreData, SwiftData, CloudKit, Tailwind, NextJS, Remix.run, AVKit, AVFoundation, ShadCN, T3 Stack, XCTest, JestJS, MCP.
-
-**Tools:**
-Xcode, Git, npm/yarn, Webpack/Parcel/Bun, CocoaPods, Swift Package Manager, XCFramework, VSCode, CircleCI, Github Actions, Ollama, Bash/Zsh, AI-assisted development (Claude, Codex, LLM tooling).
-
-### Human
-
-English | C1 (Fluent)
-German | B1 (Intermediate)
+**Languages:** Swift, TypeScript, JavaScript, Kotlin, HTML, CSS, Bash
+**Mobile:** SwiftUI, UIKit, ARKit, AVFoundation, MapBox, CoreData, CloudKit
+**Web:** React, Next.js, Redux, Tailwind, ShadCN, TanStack
+**Cross-Platform:** React Native, tvOS, iOS, Android
+**Web3:** WalletConnect, Wagmi
+**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, AI-assisted development
+**Human:** English (C1), German (B1)
