@@ -97,76 +97,12 @@ Selected client projects:
 
 ## Projects
 
-### SpyScope: Live Streaming Camera Server
-
-**11/2025 - Present**
-*iOS App*
-*SpyScope on the App Store*
-
-- Created and developed from the ground up SpyScope, a privacy-first live streaming app.
-- Used AVFoundation and HTTP server to create 4K HLS streaming directly from iPhone.
-- Free on App Store with local-only, zero-cloud architecture for maximum privacy.
-
-### Rep Rise: Home Workout Buddy
-
-**01/2020 - 01/2024**
-*iOS Fitness App*
-*Rep Rise on the App Store*
-
-- Created and developed from the ground up Rep Rise, gamified fitness app.
-- Used ARKit to create a touchless repetition counting mechanism.
-- Earned $10k+ and gained 30,000+ users worldwide.
-
-### XcodeProjectSecurity
-
-**11/2023 - 01/2024**
-*IDE Security CLI*
-*gitlab.com/SwiftDevCollective*
-
-- Contributed to the development of a security-focused tool for Xcode projects.
-- Collaborated in a team to enhance project security and code integrity.
-- Implemented features to detect and mitigate potential security vulnerabilities in Xcode projects.
-- Participated in code reviews and provided improvements to ensure high-quality, secure code.
-
-### Open Sesame - MacOS App
-
-**12/2023 - 01/2025**
-*macOS menu bar app*
-*github/open-sesame*
-
-- Engineered a macOS application for monitoring network ports.
-- Implemented real-time alerts and logging for unauthorized port access.
-- Utilized advanced macOS programming techniques for network security.
-
-### Google IMA SDK for iOS & tvOS
-
-**01/2023 - 07/2025**
-*XCFramework*
-*github/google-ima-sdk-xc*
-
-- Developed an unofficial combined SDK for iOS and tvOS platforms.
-- Facilitated integration of Google IMA SDK with SPM and CocoaPods.
-- Streamlined ad integration process for iOS/tvOS app developers.
-
-### Portfolio Website
-
-**01/2022 - 01/2025**
-*Remix.run + React*
-*github/portfolio*
-
-- Designed a personal portfolio website using Remix.run.
-- Showcased professional projects, skills, and personal brand.
-- Implemented responsive design for optimal viewing on all devices.
-
-### Themeit - Web Theme Switcher
-
-**01/2023 - 01/2024**
-*Modern Web Browser Theme Switcher*
-*github/themeit*
-
-- Created a modern, user-friendly web theme switcher.
-- Enabled dynamic theme changes for enhanced user experience.
-- Integrated with React and JS versions for widespread compatibility.
+- **[SpyScope](https://apps.apple.com/us/app/spyscope-live-stream-camera/id6755126190)** - Privacy-first 4K live streaming camera server for iOS, zero-cloud architecture.
+- **[Rep Rise](https://apps.apple.com/us/app/rep-rise-ultimate-workouts-ar/id1246695736)** - Gamified fitness app with ARKit touchless rep counting. $10k+ revenue, 30k+ users.
+- **[XcodeProjectSecurity](https://gitlab.com/SwiftDevCollective/XcodeProjectSecurity.git)** - Security CLI tool for detecting vulnerabilities in Xcode projects.
+- **[Open Sesame](https://github.com/br3akzero/open-sesame)** - macOS menu bar app for real-time network port monitoring.
+- **[Google IMA SDK](https://github.com/br3akzero/google-ima-sdk-xc)** - Unofficial combined Google IMA SDK for iOS & tvOS via SPM and CocoaPods.
+- **[Themeit](https://github.com/br3akzero/themeit)** - Modern web theme switcher for React and vanilla JS.
 
 ## Skills
 
