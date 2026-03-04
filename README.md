@@ -113,7 +113,7 @@ Selected client projects:
 **Testing:** XCTest, Swift Testing, JestJS, Playwright
 **Cross-Platform:** React Native, tvOS, iOS, Android
 **Web3:** WalletConnect, Wagmi
-**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, AI-assisted development
+**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, Linear, Jira, Trello, AI-assisted development
 
 ## Education
 
