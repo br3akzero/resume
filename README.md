@@ -1,8 +1,8 @@
 # Daniel Reshad
 
-daniel.reshad@proton.me
-github.com/br3akzero
-breakzero.io
+[daniel.reshad@proton.me](mailto:daniel.reshad@proton.me)
+[github.com/br3akzero](https://github.com/br3akzero)
+[breakzero.io](https://breakzero.io)
 
 ## Professional Summary
 
