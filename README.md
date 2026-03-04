@@ -107,11 +107,11 @@ Selected client projects:
 ## Skills
 
 **Languages:** Swift, TypeScript, JavaScript, Kotlin, HTML, CSS, SASS/SCSS, Bash
-**Mobile:** SwiftUI, UIKit, AppKit, ARKit, AVFoundation, MapBox, CoreData, SwiftData, CloudKit, HLS
+**Mobile:** SwiftUI, UIKit, AppKit, ARKit, AVFoundation, MapBox, CoreData, SwiftData, CloudKit, HLS, Combine, Swift Concurrency, Codable
 **Web:** React, Next.js, Node.js, Redux, Tailwind, ShadCN, TanStack
-**Backend:** Vapor, Node.js
+**Backend:** Vapor, Node.js, REST APIs, Firebase
 **Testing:** XCTest, Swift Testing, JestJS, Playwright
 **Cross-Platform:** React Native, tvOS, iOS, Android
 **Web3:** WalletConnect, Wagmi
-**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Cloudflare, AI-assisted development
+**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, AI-assisted development
 **Human:** English (C1), German (B1)
