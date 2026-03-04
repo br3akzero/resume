@@ -111,5 +111,5 @@ Selected client projects:
 **Web:** React, Next.js, Redux, Tailwind, ShadCN, TanStack
 **Cross-Platform:** React Native, tvOS, iOS, Android
 **Web3:** WalletConnect, Wagmi
-**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, AI-assisted development
+**Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Cloudflare, AI-assisted development
 **Human:** English (C1), German (B1)
