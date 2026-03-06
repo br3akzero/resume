@@ -23,6 +23,7 @@ jobs:
         with:
           args: >-
             --pdf-engine=xelatex
+            -H header.tex
             -V geometry:margin=1in
             -V colorlinks=true
             -V urlcolor=blue

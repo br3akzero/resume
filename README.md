@@ -1,6 +1,6 @@
 ```{=latex}
 \begin{picture}(0,0)
-\put(380,-120){\includegraphics[width=2.5cm]{photo.jpg}}
+\put(380,-50){\includegraphics[width=2.5cm]{photo.jpg}}
 \end{picture}
 ```
 
