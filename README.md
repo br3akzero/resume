@@ -125,8 +125,6 @@ Selected client projects:
 
 **Cross-Platform:** React Native, tvOS, iOS, Android
 
-**Web3:** WalletConnect, Wagmi
-
 **Tools:** Xcode, Git, SPM, CocoaPods, CircleCI, GitHub Actions, Linux, Docker, Cloudflare, Figma, Linear, Jira, Trello, AI-assisted development, Agile, Scrum
 
 ## Education
