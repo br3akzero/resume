@@ -56,19 +56,6 @@ Senior Software Engineer with 9+ years of experience building mobile and web pro
 - Core engineer on the Wowza Flowplayer Web Player, serving 100M+ monthly views. Primary owner of debugging and troubleshooting player issues across web and native clients.
 - SDKs adopted by major clients including [Amedia](https://apps.apple.com/us/developer/amedia-as/id423980137), Norway's largest media group.
 
-### Senior Software Engineer
-
-**Netz.io | 06/2024 - 10/2024**
-
-*DeFi / Web3, Remote, Dubai, UAE*
-
-*Next.js, WalletConnect, ShadCN, TanStack, Wagmi, [Netz.io](https://netz.io)*
-
-- Sole client-side engineer on a 4-person team, delivering a fixed-scope MVP in 4 months.
-- Built the full swap and pool interface enabling NETZ to be traded against USDT/USDC.
-- Integrated WalletConnect for wallet authentication and Wagmi for on-chain transaction handling.
-- Built with Next.js, ShadCN, and TanStack React for a responsive, production-grade UI.
-
 ### Software Engineer
 
 **AdPro | 06/2020 - 07/2021**
