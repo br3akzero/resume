@@ -103,7 +103,7 @@ Selected client projects:
 
 ## Projects
 
-- **[ai.health-ingest](https://github.com/br3akzero/ai.health-ingest)** - Swift MCP server and CLI for health check ingestion using Vision.
+- **[ai.health-check](https://github.com/br3akzero/ai.health-check)** - Swift MCP server and CLI for health check ingestion using Vision.
 - **[nav.time](https://github.com/br3akzero/nav.time)** - Lightweight SwiftUI navigation framework for push, sheet, and tab flows.
 - **[SpyScope](https://apps.apple.com/us/app/spyscope-live-stream-camera/id6755126190)** - Privacy-first 4K live streaming camera server for iOS, zero-cloud architecture.
 - **[Rep Rise](https://apps.apple.com/us/app/rep-rise-ultimate-workouts-ar/id1246695736)** - Gamified fitness app with ARKit touchless rep counting. $10k+ revenue, 30k+ users.
